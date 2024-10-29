@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andracampos
 - 👀 I’m interested in all things STEM!
-- 🌱 I’m currently learning more about coding!
+- 🌱 Developer of ProjectConnectForum.com
 - 💞️ I’m looking to collaborate on creating a website
 - 📫 How to reach me: bandra008@yahoo.com
 
